@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/Himanshupegu/NFT-preview-card-component
-- Live Site URL: https://himanshupegu.github.io/NFT-preview-card-component/
+- Solution URL: [Solution](https://github.com/Himanshupegu/NFT-preview-card-component)
+- Live Site URL: [Live Site](https://himanshupegu.github.io/NFT-preview-card-component/)
 
 ## My process
 
@@ -50,8 +50,7 @@ Users should be able to:
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Cssmatic.com](https://www.cssmatic.com/box-shadow) - This helped me creating the shadows of the card.
 
 ## Author
 
